@@ -62,8 +62,8 @@ Uploaded satellite images are split into small patches (e.g., 256×256), each wi
 
 | **Component**              | **Technology Used**                 |
 | -------------------------- | ----------------------------------- |
-| **Frontend**               | React.js (MERN Stack)               |
-| **Backend API**            | FastAPI                             |
+| **Frontend**               | React.js (MERN Stack Frontend)      |
+| **Backend API**            | FastAPI/Express.js                  |
 | **Image Models**           | Kosmos-2, LLaMA-3.2 Vision-Instruct |
 | **Language Models**        | Family of LLaMA                     |
 | **Workflow Orchestration** | Python, Docker, LLM Agents          |
