@@ -88,7 +88,15 @@ Uploaded satellite images are split into small patches (e.g., 256×256), each wi
 3. Government geospatial intelligence (GEOINT) units
 4. Researchers in AI, remote sensing, and security
 
+### **✔️ Architecture Diagram**
 
+![Architecture Diagram](https://res.cloudinary.com/dur2vhjfv/image/upload/v1753890045/ArchitectureDiagramGeoShield_hdbfkj.jpg)
+
+
+### **✔️ Workflow Diagram**
+
+
+<img src="https://res.cloudinary.com/dur2vhjfv/image/upload/v1753890012/WorkflowDiagramGEOSHIELD_ori0gt.png" height="800" width="600"/>
 
 
 
